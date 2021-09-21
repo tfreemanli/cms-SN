@@ -82,7 +82,7 @@ $mysqli->close();//关闭连接
 
 
     
-<?php
+
 
 $selectSsCode = "SN";
 
